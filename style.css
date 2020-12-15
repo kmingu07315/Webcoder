@@ -28,13 +28,6 @@ p {
   text-align: center;
 }
 
-hr {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  border: 1;
-  border-top: 1px soild rgba(0, 0, 0, 0.1);
-}
-
 .navbar {
   display: flex;
   justify-content: space-between;
