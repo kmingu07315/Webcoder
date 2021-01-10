@@ -9,3 +9,6 @@ int main() {
   return 0;
 }
 ```
+|index|value|
+|:--:|:--:|
+|0|"kim"|
