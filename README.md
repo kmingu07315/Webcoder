@@ -9,8 +9,8 @@ int main() {
   return 0;
 }
 ```
-|index|value|
-|:--:|:--:|
-|0|"kim"|
-|1|"park"|
-|2|"shin"|
+|index|key|value|
+|:--:|:--:|:--:|
+|0|"p1"|"kim"|
+|1|"p2"|"park"|
+|2|"p3"|"shin"|
