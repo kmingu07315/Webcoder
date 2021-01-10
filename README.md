@@ -12,3 +12,5 @@ int main() {
 |index|value|
 |:--:|:--:|
 |0|"kim"|
+|1|"park"|
+|2|"shin"|
