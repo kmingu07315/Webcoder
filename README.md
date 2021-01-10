@@ -8,7 +8,7 @@ package com.example.myapp.Kotlin
 import java.util.Scanner
 
 fun main(args: Array<String>) {
-	var i: Int = 1
+  var i: Int = 1
   var value: Int
   var mList = mutableListOf<Int>(0)
   val scan: Scanner = Scanner(System.`in`)
@@ -23,7 +23,7 @@ fun main(args: Array<String>) {
     if (duple(mList, value)) {
       mList.add(value)
       i++
-    }	else {
+    } else {
       continue
     }
   }
