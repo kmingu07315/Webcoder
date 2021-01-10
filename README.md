@@ -1,4 +1,8 @@
 # Webcoder
+|input|result|
+|:--:|:--:|
+|3|[2, 3, 1]|
+|5|[4, 2, 1, 3, 5]|
 ```kotlin
 package com.example.myapp.Kotlin
 import java.util.Scanner
