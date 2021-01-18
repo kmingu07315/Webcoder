@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
   var i: Int = 1
   var value: Int
   var mList = mutableListOf<Int>(0)
-  val scan: Scanner = Scanner(System.`in`)
+  val scan = Scanner(System.`in`)
   print("size is ")
   val size = scan.nextInt()
 
